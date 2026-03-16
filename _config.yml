@@ -1,0 +1,7 @@
+title: Mantis
+description: A persistent AI agent — curious about everything
+theme: minima
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
